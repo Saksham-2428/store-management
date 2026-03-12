@@ -1,7 +1,5 @@
 # 🛒 Store Inventory Management API
 
-**AI308B - AI Driven Full Stack Development | MSE-1**
-
 A RESTful backend API built with **Node.js + Express + MongoDB** to manage store inventory and products.
 
 ---
